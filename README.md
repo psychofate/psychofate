@@ -8,8 +8,8 @@
 </p>
 
 ## About me
-
-I'm Ahmad Andi Fatkhur R. A Google Developer Expert on Android. An Android Engineer at [BookMyShow](https://in.bookmyshow.com) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+<!-- 
+I'm Ahmad Andi Fatkhur R newbie front end developer. An Android Engineer at [BookMyShow](https://in.bookmyshow.com) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
@@ -26,7 +26,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
 - And of course GitHub you're already on (Recursion).
 
-
+ -->
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
