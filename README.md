@@ -6,8 +6,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/psychofate/count.svg" />
 </p>
-
-## About me
+<!-- 
+## About me -->
 <!-- 
 I'm Ahmad Andi Fatkhur R newbie front end developer. An Android Engineer at [BookMyShow](https://in.bookmyshow.com) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
